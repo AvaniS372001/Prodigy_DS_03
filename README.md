@@ -16,6 +16,6 @@ The model was evaluated based on accuracy, a classification report, and a confus
 ### Visualization:
 A visual representation of the decision tree was created, detailing feature importance and class distributions.
 
-###Installation:
+### Installation:
 Ensure you have the required libraries installed: pandas, scikit-learn, matplotlib.
 pip install pandas scikit-learn matplotlib
